@@ -15,3 +15,14 @@ https://github.com/Mic92/kshape
 
 Python CLustering Exercises
 https://github.com/benjaminwilson/python-clustering-exercises
+
+
+LTSM for time series
+https://github.com/titu1994/LSTM-FCN
+
+
+UCR Time Series Dataset
+http://www.cs.ucr.edu/~eamonn/time_series_data/
+Explained:
+http://timeseriesclassification.com/dataset.php
+http://timeseriesclassification.com/description.php?Dataset=Earthquakes
