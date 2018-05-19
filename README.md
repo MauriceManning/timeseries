@@ -23,6 +23,9 @@ https://github.com/titu1994/LSTM-FCN
 
 UCR Time Series Dataset
 http://www.cs.ucr.edu/~eamonn/time_series_data/
+
 Explained:
+
 http://timeseriesclassification.com/dataset.php
+
 http://timeseriesclassification.com/description.php?Dataset=Earthquakes
